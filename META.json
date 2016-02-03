@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tsucchi/p5-Selenium-DriverFactory/issues"
+      },
+      "homepage" : "https://github.com/tsucchi/p5-Selenium-DriverFactory",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tsucchi/p5-Selenium-DriverFactory.git",
+         "web" : "https://github.com/tsucchi/p5-Selenium-DriverFactory"
+      }
+   },
    "version" : "0.01"
 }
