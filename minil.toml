@@ -1,0 +1,4 @@
+name = "Selenium-DriverFactory"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
