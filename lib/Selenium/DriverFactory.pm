@@ -31,7 +31,7 @@ Selenium::DriverFactory - Factory Method for Selenium::Remote::Driver
 =head1 SYNOPSIS
 
     use Selenium::DriverFactory;
-    my $driver = Selenium::DriverFactory->create( driver => 'phantomjs' );
+    my $driver = Selenium::DriverFactory->create( browser_name => 'phantomjs' );
 
 =head1 DESCRIPTION
 
